@@ -1,0 +1,24 @@
+this file for dev
+ git init                                                                                                                        
+   py branch.py                                                                                                                    
+    git add branch.py                                                                                                               
+    git status                                                                                                                      
+    clear                                                                                                                           
+    git commit -m branch.py                                                                                                         
+    git status                                                                                                                      
+    rm branch.py                                                                                                                    
+   git restore branch.py                                                                                                           
+   git status                                                                                                                      
+  13 git status                                                                                                                      
+  14 git -v                                                                                                                          
+  15 git status                                                                                                                      
+  16 clear                                                                                                                           
+  17 git remote -v                                                                                                                   
+  21 git remote -v                                                                                                                   
+  22 git push origin master                                                                                                          
+  23 git status                                                                                                                      
+  24 git branch dev                                                                                                                  
+  25 git status                                                                                                                      
+  26 git branch                                                                                                                      
+  27 git switch dev                                                                                                                  
+  28 git status                                                                                                                      
